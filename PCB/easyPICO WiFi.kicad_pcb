@@ -6854,32 +6854,29 @@
 		(tags "Through hole pin header THT 1x20 2.54mm single row")
 		(property "Reference" "J4"
 			(at 0 2.38 0)
-			(layer "B.SilkS")
+			(layer "F.SilkS")
 			(uuid "0e704b1f-2579-4056-89ac-0e8a263d8032")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "Conn_01x20"
 			(at -1.5 -52.01 0)
-			(layer "B.Fab")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "b76ee570-d558-4e35-98e5-933f1eec660d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "c516eb0e-245f-483f-b7ac-6ea82e83a514")
 			(effects
@@ -6887,12 +6884,11 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "304169e1-6621-492f-aca0-6cf3ad61e17b")
 			(effects
@@ -6900,7 +6896,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
@@ -7524,14 +7519,13 @@
 		(tags "Through hole pin header THT 1x20 2.54mm single row")
 		(property "Reference" "J2"
 			(at 0 2.38 0)
-			(layer "B.SilkS")
+			(layer "F.SilkS")
 			(uuid "432d026d-354f-49a3-9f79-f68da47c4b04")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "Conn_01x20"
@@ -7548,7 +7542,7 @@
 		)
 		(property "Datasheet" "~"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "cff74455-d022-4e4a-852b-471054358963")
 			(effects
@@ -7556,12 +7550,11 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "28460cbe-cf98-4536-8f22-e6d40cb1db6c")
 			(effects
@@ -7569,7 +7562,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
