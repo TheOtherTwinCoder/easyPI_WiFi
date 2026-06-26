@@ -13,6 +13,8 @@ JLCPCB PCBs: $5.12 + 66.03 = $71.15
 ## Images
 Schematic for Main PCB:
 
+
+
 <img width="805" height="547" alt="Screenshot 2026-06-26 at 10 46 33 AM" src="https://github.com/user-attachments/assets/ab3b460a-f569-46a7-a05c-aad6ad62092b" />
 
 PCB for Main PCB:
