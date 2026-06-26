@@ -6,8 +6,11 @@ This'll be added once I build the PCB after reciving my parts!
 
 ## BOM
 LCSC Resistors: 10 kOhms + 470 ohms - $1.55 + $9.01 Shipping + $3 handling = $13.56
+
 Amazon Socket Headers: $8.81
+
 PiShop RM2 Module: $4.40 + $6.76 Shipping = $11.61
+
 JLCPCB PCBs: $5.12 + 66.03 = $71.15
 
 ## Images
