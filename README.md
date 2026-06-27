@@ -32,7 +32,7 @@ This'll be added once I build the PCB after reciving my parts!
 | PiShop Shipping | Shipping | 1 | Shipping | PiShop | 6.76 |
 | JLCPCB PCBs | Fabrication | 1 | PCB Order | JLCPCB | 5.12 |
 | JLCPCB Shipping | Shipping | 1 | Shipping | JLCPCB | 66.03 |
-| **TOTAL** |  |  |  |  | **104.68** |
+| **TOTAL** |  |  |  |  | **105.13** |
 
 ## Images
 Schematic for Main PCB:
