@@ -43,7 +43,7 @@ Schematic for Main PCB:
 
 PCB for Main PCB:
 
-<img width="568" height="661" alt="Screenshot 2026-06-26 at 10 47 01 AM" src="https://github.com/user-attachments/assets/fe74a5a7-091e-4045-b207-65f393195562" />
+<img width="451" height="683" alt="Screenshot 2026-08-03 at 5 08 48 PM" src="https://github.com/user-attachments/assets/8f36e01d-6990-4d9a-ac30-67e7e2457eac" />
 
 3D View for Main PCB: 
 
