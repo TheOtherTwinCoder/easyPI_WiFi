@@ -7,11 +7,11 @@ I made easyPI WiFi for one simple reason - its customizability! Most custom boar
 
 Features:
 
-EVERY GPIO pin included with the RP2040 - such as pins 25 and 29 - while not losing out on other pins, like the ADC pins!
-RPI_RM2 compatibility with the shield, allowing for WiFi and Bluetooth
-USB-C rather than the normally used Micro-USB with Picos
-264 KB of on-chip SRAM
-All the features of a regular Pi Pico, too!
+- EVERY GPIO pin included with the RP2040 - such as pins 25 and 29 - while not losing out on other pins, like the ADC pins!
+- RPI_RM2 compatibility with the shield, allowing for WiFi and Bluetooth
+- USB-C rather than the normally used Micro-USB with Picos
+- 264 KB of on-chip SRAM
+- All the features of a regular Pi Pico, too!
 
 ## How It Works
 This'll be added once I build the PCB after reciving my parts!
