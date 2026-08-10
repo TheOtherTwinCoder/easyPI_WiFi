@@ -11,6 +11,7 @@ Features:
 - RPI_RM2 compatibility with the shield, allowing for WiFi and Bluetooth
 - USB-C rather than the normally used Micro-USB with Picos
 - 264 KB of on-chip SRAM
+- Software compatible with hundreds of distros and repos (mainly due to RP2040 support)
 - All the features of a regular Pi Pico, too!
 
 ## How It Works
