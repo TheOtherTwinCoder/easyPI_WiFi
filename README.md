@@ -1,6 +1,18 @@
 # easyPI_WiFi
 Simply, a devboard with a WiFi shield using the RPI RM2, made for Macondo!
 
+*Well, what's the point?*
+
+I made easyPI WiFi for one simple reason - its customizability! Most custom board related to the Pi Pico don't have the ability to use shields (especially due to the lack of some pins, like pins 25 and 29) - which isn't great for adding features to your board (from just the regular features of a microcontroller!) 
+
+Features:
+
+EVERY GPIO pin included with the RP2040 - such as pins 25 and 29 - while not losing out on other pins, like the ADC pins!
+RPI_RM2 compatibility with the shield, allowing for WiFi and Bluetooth
+USB-C rather than the normally used Micro-USB with Picos
+264 KB of on-chip SRAM
+All the features of a regular Pi Pico, too!
+
 ## How It Works
 This'll be added once I build the PCB after reciving my parts!
 
